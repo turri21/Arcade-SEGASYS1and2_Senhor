@@ -1,7 +1,7 @@
 <misterromdescription>
 	<name>Regulus (315-5033, Rev A.)</name>
 	<setname>regulus</setname>
-	<rbf>segasys1</rbf>
+	<rbf>segasys1and2</rbf>
 	<mameversion>0229</mameversion>
 	<year>1983</year>
 	<manufacturer>Sega</manufacturer>
