@@ -14,7 +14,7 @@
 	<setname>imsorry</setname>
 	<parent>imsorry</parent>
 	<mameversion>0229</mameversion>
-	<rbf>segasys1</rbf>
+	<rbf>segasys1and2</rbf>
 	<about author="MrX-8B" source="https://github.com/MiSTer-devel/Arcade-SEGASYS1_MiSTer" twitter="@MrX_8B" webpage="https://patreon.com/MrX_8B"></about>
 
 	<resolution>15kHz</resolution>
