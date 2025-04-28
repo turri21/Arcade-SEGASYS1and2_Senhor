@@ -4,7 +4,7 @@ Tested: Working Video 720p, 1080p & Sound
 
 This core is not available in mister-devel repo. It is forked from: https://github.com/blackwine/Arcade-SEGASYS1_MiSTer
 
-Use this core only if you want to play the SEGASYS2 games. 
+Use this core only if you want to play the SEGASYS2 games. At the time of writing these games are not supported by the official core.
 
 ___
 # [Arcade: SEGA System 1](https://www.system16.com/hardware.php?id=693) and [2](https://www.system16.com/hardware.php?id=694) for the [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
