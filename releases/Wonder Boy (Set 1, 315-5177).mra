@@ -1,7 +1,7 @@
 <misterromdescription>
 	<name>Wonder Boy (set 1, 315-5177)</name>
 	<setname>wboy</setname>
-	<rbf>segasys1</rbf>
+	<rbf>segasys1and2</rbf>
 	<mameversion>0229</mameversion>
 	<year>1986</year>
 	<manufacturer>Escape (Sega license)</manufacturer>
